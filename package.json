@@ -1,0 +1,12 @@
+{
+    "name": "test",
+    "description": "test",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_myhost.local.json",
+            "credentialsFile": "flows_myhost.local_cred.json"
+        }
+    }
+}
